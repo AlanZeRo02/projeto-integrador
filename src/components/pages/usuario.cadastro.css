@@ -1,0 +1,14 @@
+.usuario_formulario {
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+    align-self: center;
+}
+
+.usuario_formulario h1 {
+    margin: 0.5em;
+}
+
+.usuario_formulario p {
+    color: #7b7b7b;
+}
